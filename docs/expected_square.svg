@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title description">
+  <title id="title">Expected turtlesim square path</title>
+  <desc id="description">A square path made from four straight sides and four left turns.</desc>
+  <rect width="900" height="620" fill="#f6f8fa"/>
+  <text x="450" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#172b4d">Expected turtlesim result</text>
+  <text x="450" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#4b5563">Four straight sides + four 90-degree left turns</text>
+  <rect x="180" y="120" width="540" height="420" rx="10" fill="#4c5cff" stroke="#2434c7" stroke-width="4"/>
+  <path d="M310 420 L590 420 L590 200 L310 200 Z" fill="none" stroke="#f8e16c" stroke-width="9" stroke-linejoin="round"/>
+  <polygon points="310,420 338,408 338,432" fill="#44d17a" stroke="#0d7a3a" stroke-width="3"/>
+  <circle cx="310" cy="420" r="18" fill="#44d17a" stroke="#0d7a3a" stroke-width="3"/>
+  <text x="450" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#374151">Prepared by Nasser Mamdouh Alshareef</text>
+</svg>
+
