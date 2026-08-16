@@ -1,0 +1,10 @@
+Expected terminal output after running pubsub_demo.launch.py
+===========================================================
+
+[nasser_phrase_publisher] Published: "Robotics makes ideas move - Nasser Mamdouh Alshareef | message 1"
+[nasser_phrase_subscriber] Received: "Robotics makes ideas move - Nasser Mamdouh Alshareef | message 1"
+[nasser_phrase_publisher] Published: "Robotics makes ideas move - Nasser Mamdouh Alshareef | message 2"
+[nasser_phrase_subscriber] Received: "Robotics makes ideas move - Nasser Mamdouh Alshareef | message 2"
+
+The counter continues once per second until Ctrl+C is pressed.
+
