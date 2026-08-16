@@ -1,0 +1,15 @@
+# ROS 2 build outputs
+build/
+install/
+log/
+
+# Python cache and test output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
